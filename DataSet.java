@@ -200,7 +200,7 @@ public class DataSet {
 
   /////////////////////////////////////////////////////////////////////////////////////
   // count & print frequencies of different labels
-  public static void printLabelFrequencies(List<DataPoint> fullDataSet) {
+  public lstaticstatic void printLabelFrequencies(List<DataPoint> fullDataSet) {
 
     HashMap<String, Integer> labelFrequencies = new HashMap<String, Integer>();
 
