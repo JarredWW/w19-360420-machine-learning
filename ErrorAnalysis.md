@@ -37,7 +37,7 @@ Standard Deviation = 14.29%
 
 - What makes these two measures different?
 
-The tumor's do not have a 50/50 chance of being bening or malignant. Therefore, the diagnosis for each will have a different probability, and different margin of error.
+The tumor's do not have a 50/50 chance of being benign or malignant. Therefore, the diagnosis for each will have a different probability, and different margin of error.
 
 
 
